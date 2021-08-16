@@ -10,4 +10,4 @@ Soru | Cevap
 **Telegram için olan user bot projem yarıda kaldı en kısa zamanda bitireceğim**
 
 [SakirBey](www.github.com/SakirBey1) <img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="90" with="86">
-[İnstagram](https://www.instagram.com/sakir_hack81.21/")
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
