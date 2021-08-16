@@ -6,3 +6,5 @@ Soru | Cevap
 **Yazdığım Platformlar** | `Desktop, Mobile, Web, CLI`
 **Bildiğim Diller**  | ` JS, Python, C++`
 **Öğrenmeye Çalıştığım Diller** | `c#`
+
+**Telegram için olan user bot projem yarıda kaldı en kısa zamanda bitireceğim**
