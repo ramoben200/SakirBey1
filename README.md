@@ -18,7 +18,7 @@
 
   </a>
   <a href="https://github.com/SakirBey1?tab=followers">
-    <img src="https://img.shields.io/github/followers/SakirBey1?color=ff69b4&label=Followers&style=plastic"
+    <img src="https://img.shields.io/github/followers/SakirBey1?color=ff69b4&label=Followers&style=plastic">
     
 Soru | Cevap
 --- | --- 
