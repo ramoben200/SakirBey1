@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SakirBey1&color=565f89&style=flat)
 
+![Queen Github stats](https://github-readme-stats.vercel.app/api?username=SakirBey1&show_icons=true&theme=tokyonight)
 
 <p align="center"> 
   Visitors count<br>
