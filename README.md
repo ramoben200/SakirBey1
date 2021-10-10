@@ -29,6 +29,6 @@ Soru | Cevap
 **Bildiğim Diller**  | ` JS, Python, C++, PHP, Html, LuaScript`
 **Öğrenmeye Çalıştığım Diller** | `c#`
 
-# Benimle iletişime geç <a href="https://t.me/SakirBey1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="sakirbey" height="30" width="40" /></a>
+ 'Benimle iletişime geç' <a href="https://t.me/SakirBey1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="sakirbey" height="30" width="40" /></a>
 
 [SakirBey](www.github.com/SakirBey1) <img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="90" with="86">
