@@ -39,5 +39,8 @@ Soru | Cevap
 <summary>Daha fazla bilgi</summary>
   
 # Ne aramıştın .xd
+  # Hemçkırım ben
+  # Sen ddos yiyon
+  # Sen kod çalıyon
   
 <img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="90" with="86">
