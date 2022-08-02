@@ -1,5 +1,10 @@
-# Merhaba Ben Şakir
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sa,+Hoşgeldin+👋;Benim+Adım+Şakir....;Tanistigima+Memun+Oldum!&center=true&size=25">
+  </a>
+</h1>
 
+# #
 
 ![](https://komarev.com/ghpvc/?username=SakirBey1&color=565f89&style=flat)
 
