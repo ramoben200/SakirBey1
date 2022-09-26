@@ -1,3 +1,10 @@
+
+
+<!-- TRLink 285x580 Banner-->
+<a href="https://tr.link/ref/sakirbey81"><img src="//tr.link/webroot/img/285x580.png" title="Para Kazanmak İçin Tıkla Kayıt OL" /></a>
+<!-- TRLink 285x580 Banner Son--> 
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Sa,+Hoşgeldin+👋;Benim+Adım+Şakir....;Tanistigima+Memun+Olmadım!._.!&center=true&size=25">
