@@ -1,8 +1,7 @@
 
 
-<!-- TRLink 285x580 Banner-->
-<a href="https://tr.link/ref/sakirbey81"><img src="//tr.link/webroot/img/285x580.png" title="Para Kazanmak İçin Tıkla Kayıt OL" /></a>
-<!-- TRLink 285x580 Banner Son--> 
+<img src=" //tr.link/webroot/img/285x580.png " title="Para Kazanmak İçin Tıkla Kayıt OL" class="box-sh table-responsive">
+
 
 
 <h1 align="center">
